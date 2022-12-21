@@ -1,0 +1,12 @@
+D:\CODE\Organizations\SchemaModule\CSharp\Schema\bin\Debug\net6.0\Schema.deps.json
+D:\CODE\Organizations\SchemaModule\CSharp\Schema\bin\Debug\net6.0\Schema.dll
+D:\CODE\Organizations\SchemaModule\CSharp\Schema\bin\Debug\net6.0\Schema.pdb
+D:\CODE\Organizations\SchemaModule\CSharp\Schema\obj\Debug\net6.0\Schema.csproj.AssemblyReference.cache
+D:\CODE\Organizations\SchemaModule\CSharp\Schema\obj\Debug\net6.0\Schema.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\Organizations\SchemaModule\CSharp\Schema\obj\Debug\net6.0\Schema.AssemblyInfoInputs.cache
+D:\CODE\Organizations\SchemaModule\CSharp\Schema\obj\Debug\net6.0\Schema.AssemblyInfo.cs
+D:\CODE\Organizations\SchemaModule\CSharp\Schema\obj\Debug\net6.0\Schema.csproj.CoreCompileInputs.cache
+D:\CODE\Organizations\SchemaModule\CSharp\Schema\obj\Debug\net6.0\Schema.dll
+D:\CODE\Organizations\SchemaModule\CSharp\Schema\obj\Debug\net6.0\refint\Schema.dll
+D:\CODE\Organizations\SchemaModule\CSharp\Schema\obj\Debug\net6.0\Schema.pdb
+D:\CODE\Organizations\SchemaModule\CSharp\Schema\obj\Debug\net6.0\ref\Schema.dll
